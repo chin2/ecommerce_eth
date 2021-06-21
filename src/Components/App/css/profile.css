@@ -1,0 +1,10 @@
+.profile {
+    justify-content: center !important;
+    align-items: center !important;
+    text-align: center !important;
+    display: flex !important;
+}
+
+.profile_container {
+    height: 100vh;
+}
